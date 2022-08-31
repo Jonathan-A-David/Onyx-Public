@@ -1,0 +1,26 @@
+{
+  "name": "onyxaio",
+  "version": "1.0.0",
+  "description": "NB Automations Software",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "axios-https-proxy-fix": "^0.17.1",
+    "cheerio": "^1.0.0-rc.5",
+    "csvtojson": "^2.0.10",
+    "discord-webhook-node": "^1.1.8",
+    "enquirer": "^2.3.6",
+    "figchalk": "^1.0.3",
+    "log-timestamp": "^0.3.0",
+    "mongodb": "^3.6.4",
+    "node-bash-title": "0.0.2",
+    "node-notifier": "^9.0.0",
+    "pkg": "^4.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johnnyyyy#0191",
+  "license": "ISC"
+}
